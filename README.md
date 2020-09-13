@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/vijay-anand-87763b190"><img src="https://img.shields.io/badge/-Vijay%20Anand-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>  
-<a href="https://www.instagram.com/vjanand_b/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vjanand_b-blue?style=flat-square&logo=instagram"></a>
+<a href="https://instagram.com/vjanand_b"><img src="https://img.shields.io/badge/-@vjanand_b__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:b.vjanand@gmail.com"><img src="https://img.shields.io/badge/-b.vjanand@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
