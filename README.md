@@ -8,7 +8,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -38,9 +39,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vijay-anand-87763b190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vijay%20Anand-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://linkedin.com/in/vijay-anand-87763b190"><img src="https://img.shields.io/badge/-Vijay%20Anand-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>  
 <a href="https://www.instagram.com/vjanand_b/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vjanand_b-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:b.vjanand@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-b.vjanand@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:b.vjanand@gmail.com"><img src="https://img.shields.io/badge/-b.vjanand@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 </p>
 
 ⭐️ From [VijayAnand-B](https://github.com/VijayAnand-B)
