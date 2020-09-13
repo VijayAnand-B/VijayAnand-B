@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vijay-anand-87763b190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vijay%20Anand-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/vijayanand_b/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vijayanand_b-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/vjanand_b/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vjanand_b-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:b.vjanand@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-b.vjanand@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
