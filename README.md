@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying B.E Electronic & Communication Engineering at Thiagarajar College of Engineering, Madurai.
+- 🎓 &nbsp; Studying Bachelers Electronic & Communication Engineering at Thiagarajar College of Engineering, Madurai.
 - 🌱 &nbsp; Learning more about IoT , Web Development and Computer Vision.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
